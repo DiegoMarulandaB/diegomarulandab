@@ -3,9 +3,9 @@ I'm Diego! Technology is constantly changing and I'm like technology. Self-taugh
 
 ![image](https://user-images.githubusercontent.com/56690521/170723167-2efef108-c9ce-4533-a87c-5e026fc45b58.png)
 
-**You can follow me on::**
+**You can follow me on:**
 
- Professional profile [Linkedin.com](https://www.linkedin.com/in/diegomarulandab/) 💼
+⁘ Professional profile [Linkedin.com](https://www.linkedin.com/in/diegomarulandab/) 💼
 
 
 
