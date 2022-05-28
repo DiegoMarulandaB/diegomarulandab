@@ -3,7 +3,7 @@
 
 ## Hi 🖐🏽, I'm Diego
 
-### *💾 Technology is constantly changing and I am like technology. Self-taught in search of new knowledge, teamwork is how music 🎵 is not created by a single individual but by several individuals*.
+### *💾 Technology is constantly changing and I am like technology. Self-taught in search of new knowledge, teamwork is how music 🎵 is not created by a single individual but by several individuals🤝🏽*.
 
 Connect with me:
 
