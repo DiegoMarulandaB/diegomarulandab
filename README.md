@@ -3,7 +3,7 @@
 
 ## Hi 🖐🏽, I'm Diego
 
-### *💾 Technology is constantly changing and I am like technology. Self-taught in search of new knowledge, teamwork is how music 🎵 is not created by a single individual but by several individuals🤝🏽*.
+### *I am Diego, Freelance frontend developer, passionate about technology, geopolitics, general culture and science. My goal is to enhance my knowledge every day and thus have topics of conversation with other people.*.
 
 Connect with me:
 
