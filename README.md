@@ -3,7 +3,7 @@
 
 ## Hi 🖐🏽, I'm Diego
 
-### *I am Diego, Freelance frontend developer, passionate about technology, geopolitics, general culture and science. My goal is to enhance my knowledge every day and thus have topics of conversation with other people.*.
+### *Freelance frontend developer, passionate about technology, geopolitics, general culture and science. My goal is to enhance my knowledge every day and thus have topics of conversation with other people.*.
 
 Connect with me:
 
