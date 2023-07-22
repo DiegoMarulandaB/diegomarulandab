@@ -1,7 +1,7 @@
    
-# console.log("Welcome (👉ﾟヮﾟ)👉");                                
+# console.log("👋🏽 Welcome (👉ﾟヮﾟ)👉");                                
 
-## 👋🏽 Hello, I'm Diego!
+## Hello, I'm Diego!
 
 ### *Freelance frontend developer, passionate about technology, geopolitics, general culture and science. My goal is to enhance my knowledge every day and thus have topics of conversation with other people.*.
 
