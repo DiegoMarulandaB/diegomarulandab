@@ -1,7 +1,7 @@
    
 # console.log("👋🏽 Welcome (👉ﾟヮﾟ)👉");                                
 
-##Hello, I'm Diego!
+## Hello, I'm Diego!
 
 ### *Indie frontend developer based in Colombia! Passionate about technology, geopolitics, general culture, and science..*.
 
