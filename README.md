@@ -3,7 +3,7 @@
 
 ##Hello, I'm Diego!
 
-### * <strong>Indie frontend developer based in Colombia!</strong> Passionate about technology, geopolitics, general culture, and science..*.
+### *Indie frontend developer based in Colombia! Passionate about technology, geopolitics, general culture, and science..*.
 
 Connect with me:
 
