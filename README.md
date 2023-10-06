@@ -3,7 +3,7 @@
 
 ## Hello, I'm Diego!
 
-### *A passionate freelance frontend developer based in Colombia. My fascination with technology is combined with a deep interest in geopolitics, general culture and science, giving me a unique perspective on the digital world.*.
+### *A passionate freelancer frontend developer based in Colombia. My fascination with technology is combined with a deep interest in geopolitics, general culture and science, giving me a unique perspective on the digital world.*.
 
 Connect with me:
 
