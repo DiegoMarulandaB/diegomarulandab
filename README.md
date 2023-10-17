@@ -1,8 +1,10 @@
 # console.log("👋🏽 Welcome (👉ﾟヮﾟ)👉");                                
 
+<p align="center">
 ## Hello, I'm Diego!
 
 ### *A passionate freelancer frontend developer from Colombia. My fascination with technology is combined with a deep interest in geopolitics, general culture and science, giving me a unique perspective on the digital world.*.
+</p>
 
 Connect with me:
 
