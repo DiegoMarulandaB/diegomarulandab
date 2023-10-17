@@ -6,7 +6,7 @@
 
 Connect with me:
 
-<p align="left">
+<p align="center">
    <a href="https://dev.to/diegomarulandab" target="_blank" rel="noopener noreferrer"><img align="center"
                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
                           alt="Link Dev" height="30" width="40" target="_blank" rel="noopener noreferrer"/></a>
@@ -16,7 +16,7 @@ Connect with me:
 </p>
 
 ## Tools:
-<p align="left">     <a href="https://www.gnu.org/software/bash/" target="_blank" rel=" noopener noreferrer"> <img
+<p align="center">     <a href="https://www.gnu.org/software/bash/" target="_blank" rel=" noopener noreferrer"> <img
                               src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> <a
                             href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
                             <a href="https://www.figma.com/" target="_blank" rel=" noopener noreferrer"> <img
