@@ -1,4 +1,6 @@
+![cover image](/Screenshots/portada.png)
    
+
 # console.log("👋🏽 Welcome (👉ﾟヮﾟ)👉");                                
 
 ## Hello, I'm Diego!
