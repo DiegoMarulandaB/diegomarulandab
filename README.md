@@ -1,8 +1,8 @@
 # console.log("👋🏽 Welcome (👉ﾟヮﾟ)👉");                                
 
-<p align="center">
+
 ## Hello, I'm Diego!
-</p>
+
 
 <p align="center">
 
