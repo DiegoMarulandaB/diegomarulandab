@@ -9,10 +9,10 @@ Connect with me:
 <p align="left">
    <a href="https://dev.to/diegomarulandab" target="_blank" rel="noopener noreferrer"><img align="center"
                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-                          alt="https://dev.to/diegomarulandab" height="30" width="40" /></a>
+                          alt="https://dev.to/diegomarulandab" height="30" width="40" target="_blank" rel="noopener noreferrer"/></a>
                       <a href="https://www.linkedin.com/in/diegomarulandab/" target="_blank" rel="noopener noreferrer"><img align="center"
                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                          alt="https://www.linkedin.com/in/diegomarulandab/" height="30" width="40" /></a>
+                          alt="https://www.linkedin.com/in/diegomarulandab/" height="30" width="40" target="_blank" rel="noopener noreferrer" /></a>
 </p>
 
 ## Tools:
