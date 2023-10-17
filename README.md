@@ -47,7 +47,7 @@ Connect with me:
                                   alt="Vscode" width="40" height="40" /> </a>
   
 ## Languages:
-<p align="left">     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img
+<p align="center">     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img
                                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
                                       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> <img
                                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
