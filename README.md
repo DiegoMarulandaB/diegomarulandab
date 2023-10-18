@@ -8,7 +8,7 @@
 
 ### *A passionate freelancer frontend developer from Colombia, my tech stack is CSS, Git, Github, Html, JavaScript, React.
 
-My fascination for technology is combined with a deep interest for geopolitics, general culture and science, which gives me a different perspective in this industry.*.
+My fascination for technology is combined with a deep interest for geopolitics, general culture and science, which gives me a different perspective in this industry.
 </p>
 
 Connect with me:
