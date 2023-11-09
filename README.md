@@ -24,34 +24,34 @@ Connect with me:
 
 ## Tools:
 <p align="center">     <a href="https://www.gnu.org/software/bash/" target="_blank" rel=" noopener noreferrer"> <img
-                              src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40" width="50"/> </a> <a
+                              src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="30" width="40"/> </a> <a
                             href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
                             <a href="https://www.figma.com/" target="_blank" rel=" noopener noreferrer"> <img
-                                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" width="50"/> </a> <a
+                                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"height="30" width="40"/> </a> <a
                               href="https://git-scm.com/" target="_blank" rel=" noopener noreferrer"> <img
-                                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="50" /> </a> <a
+                                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="40" /> </a> <a
                               href="https://www.gitkraken.com/" target="_blank" rel=" noopener noreferrer"> <img
-                                src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitKraken" height="40" width="50" />
+                                src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitKraken" height="30" width="40" />
                             </a> <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
                               <a href="https://jestjs.io" target="_blank" rel="noopener noreferrer"> <img
-                                  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="40" width="50"/> </a> <a
+                                  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="30" width="40"/> </a> <a
                                 href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img
                                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-                                 height="40" width="50" /> </a>
+                                height="30" width="40" /> </a>
                               <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img
                                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                                   alt="mongodb" width="40" height="50" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" height="40" width="50"/> </a>
+                                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" height="30" width="40"/> </a>
                               <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer"> <img
-                                  src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" height="40" width="50"/> </a>
+                                  src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" height="30" width="40"/> </a>
                               <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"> <img
-                                  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="50"/>
+                                  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30" width="40"/>
                               </a>
                               <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer"> <img
                                   src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
                                   alt="selenium" height="40" width="50" /> </a> <a href="https://code.visualstudio.com/" target="_blank"
                                 rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
-                                  alt="Vscode" height="40" width="50" /> </a>
+                                  alt="Vscode"height="30" width="40" /> </a>
   
 ## Languages:
 <p align="center">     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img
