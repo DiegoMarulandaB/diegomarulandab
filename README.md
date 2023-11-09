@@ -16,7 +16,7 @@ Connect with me:
 <p align="center">
    <a href="https://dev.to/diegomarulandab" target="_blank" rel="noopener noreferrer"><img align="center"
                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-                          alt="Link Dev" height="30" width="40" target="_blank" rel="noopener noreferrer"/></a>
+                          alt="Link Dev" height="40" width="50" target="_blank" rel="noopener noreferrer"/></a>
                       <a href="https://www.linkedin.com/in/diegomarulandabarrientos/" target="_blank" rel="noopener noreferrer"><img align="center"
                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                           alt="Link Github" height="30" width="40" target="_blank" rel="noopener noreferrer" /></a>
