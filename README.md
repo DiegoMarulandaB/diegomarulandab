@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Diego Marulanda</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+<p align="center">My fascination for technology is combined with a deep interest for geopolitics, general culture and science, which gives me a different perspective in this industry.</p>
+
 
 - 🌱 I’m currently learning **TypeScript, Tailwind Css**
 
