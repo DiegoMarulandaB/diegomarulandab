@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋🏽, I'm Diego Marulanda</h1>
-<h3 align="left">A passionate frontend developer from Colombia</h3>
+<h3 align="left">A passionate frontend developer from Colombia</h3> 💻
 <p align="left">My fascination for technology is combined with a deep interest for geopolitics, general culture and science, which gives me a different perspective in this industry.</p>
 
 
