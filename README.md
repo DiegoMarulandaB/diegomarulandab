@@ -1,3 +1,6 @@
+![Screenshot 2024-01-17 at 13 44 04](https://github.com/DiegoMarulandaB/diegomarulandab/assets/56690521/76828684-0929-4a35-aa22-6decdbdac5b3)
+
+
 <h1 align="left">Hi 👋🏽, I'm Diego Marulanda</h1>
 <h3 align="left">A passionate frontend developer from Colombia</h3>
 <p align="left">My fascination for technology is combined with a deep interest for geopolitics, general culture and science, which gives me a different perspective in this industry.</p>
