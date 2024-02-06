@@ -1,4 +1,4 @@
-![Screenshot 2024-01-17 at 13 44 04](https://github.com/DiegoMarulandaB/diegomarulandab/assets/56690521/76828684-0929-4a35-aa22-6decdbdac5b3)
+# Dive Into The World Of Code And Creativity!
 
 
 <h1 align="left">Hi 👋🏽, I'm Diego Marulanda</h1>
