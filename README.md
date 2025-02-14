@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋! Diego Marulanda and I'm a  from  Colombia</h1>
 
+## 
+
+<span align="center">Frontend Devloper</span>
+
 ###
 
 <div align="center">
@@ -25,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
 
 ###
 
