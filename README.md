@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [https://diegomarulanda.vercel.app/](https://diegomarulanda.vercel.app/)
+- 👨‍💻 All of my projects are available at [ .....)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
