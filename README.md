@@ -7,8 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoMarulandaB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<div align="center">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjcmlmcnlkOGk2dnBqajRhbDZvdjZqZW4xcG44YWF2MmRlNmN0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -19,12 +24,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="diegomjobs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -37,6 +42,7 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/DiegoMarulandaB/DiegoMarulandaB/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -49,6 +55,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DiegoMarulandaB/count.svg?"  />
 </div>
+
+
 
 
 
