@@ -1,4 +1,4 @@
-# Your idea, my code!
+Your idea, my code!
 
 
 <h1 align="left">Hi 👋🏽, I'm  <strong> Diego Marulanda </strong></h1>
@@ -10,9 +10,8 @@
 <p>I am committed to growth and evolution, and I also have an interest in cybersecurity and general culture.</p>
 
 
-- 🌱 I’m currently learning **TypeScript, Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [ .....]
+- 👨🏽‍💻 All of my projects are available at [ .....]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
