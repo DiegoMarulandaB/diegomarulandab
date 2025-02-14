@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋! Diego Marulanda and I'm a  from  Colombia</h1>
 
+<h2 align="center">Frontend Devloper</h2>
+
 ## 
 
-<span align="center">Frontend Devloper</span>
 
 ###
 
