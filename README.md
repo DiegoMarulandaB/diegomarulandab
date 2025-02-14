@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi 👋🏽, I'm  <strong> Diego Marulanda </strong></h1>
 
-<h2 align="left">Colombian frontend developer with a passion for technology.</h2> 
+<span align="left">Colombian frontend developer with a passion for technology.</span> 
 
 <p align="left">My ability to understand technological trends allows me to offer ideas and solutions to different problems. </p>
 
