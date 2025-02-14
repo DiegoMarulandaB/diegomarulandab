@@ -12,7 +12,7 @@ Your idea, my code!
 
 
 
-👨🏽‍💻 All of my projects are available at [ .....]
+💻 Web site [ .....]
 
 
 <h2 align="left">Connect with me:</h2>
