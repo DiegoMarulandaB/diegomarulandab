@@ -1,7 +1,7 @@
 # Your idea, my code!
 
 
-<h1 align="left">Hi 👋🏽, I'm Diego Marulanda</h1>
+<h1 align="left">Hi 👋🏽, I'm  <strong> Diego Marulanda </strong></h1>
 
 <h2 align="left">Colombian frontend developer with a passion for technology.</h2> 
 
