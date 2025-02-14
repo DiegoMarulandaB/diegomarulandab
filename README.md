@@ -38,8 +38,6 @@ alt="Link Github" height="30" width="40" target="_blank" rel="noopener noreferre
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomarulandab&show_icons=true&locale=en&layout=compact" alt="diegomarulandab" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomarulandab&show_icons=true&locale=en" alt="diegomarulandab" /></p>
 ![image](https://github.com/DiegoMarulandaB/diegomarulandab/assets/56690521/cd4ad554-8aa6-4e63-a2aa-ae400b8db755)
 
