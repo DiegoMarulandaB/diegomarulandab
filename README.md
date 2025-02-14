@@ -2,7 +2,9 @@
 
 
 <h1 align="left">Hi 👋🏽, I'm Diego Marulanda</h1>
-<span align="left">Colombian frontend developer with a passion for technology.</span> 
+
+<h2 align="left">Colombian frontend developer with a passion for technology.</h2> 
+
 <p align="left">My ability to understand technological trends allows me to offer ideas and solutions to different problems. </p>
 
 <p>I am committed to growth and evolution, and I also have an interest in cybersecurity and general culture.</p>
