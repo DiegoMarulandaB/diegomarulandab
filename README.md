@@ -4,6 +4,8 @@ Your idea, my code!
 <span> Hi 👋🏽, </span>
 <h1 align="left">I'm  <strong> Diego Marulanda </strong></h1>
 
+## About me
+
 <span align="left">Colombian frontend developer with a passion for technology.</span> 
 
 <span align="left">My ability to understand technological trends allows me to offer ideas and solutions to different problems. </span>
